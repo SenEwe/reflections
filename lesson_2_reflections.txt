@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+It creates the directory ".git" with neccecary subcontent. To set up the Framework for git to track the projektdirctory.
+-
