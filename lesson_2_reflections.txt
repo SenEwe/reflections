@@ -1,3 +1,23 @@
 What happens when you initialize a repository? Why do you need to do it?
 It creates the directory ".git" with neccecary subcontent. To set up the Framework for git to track the projektdirctory.
 -
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It is a precontainer for putting parts into the working directory. It is anarea to precollect annything witch migt be neceessesary. 
+- 
+How can you use the staging area to make sure you have one commit per logical change?
+By comparing wht i have done so far and only commit when apropriate.
+-
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+If several options for one task ar possible and I/Team would like to try them out to find the best solution. And thats were it will help. Ok there are emergencycircumstances, but that would be a bad workingchain.
+-
+How do the diagrams help you visualize the branch structure?
+To understand the Structure? ;) And find the places of specific Commits and Branches in accordance to the "timeframe"/structure of commits.
+...
+I should have written the console commands of lesson one, for setting the environment of GitBash. Ill find them when I need them in the future. I hope :)
+-
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?   
+All CHnges are cept in the new masterbranch. ? The deleted lines are deletet also in the new master branch? I imagine that this could lead to a problem in som cases, but i am not so expirienced and others should have noticed, so its ok as it is. I asume :). The diagram isent representetd here, but i was a two line evolvement and at the master-end and at the coins-master-end thy were added.
+-
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+If it is possible to merge automatical, fine. As I wrote in the foremost reflection, there are conflicts when changes in the same area and thats a god reason to do the changes by hand. Allways doing merges atomatic and just fix the errors is the most convinient way.
+- 
